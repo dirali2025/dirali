@@ -7,5 +7,5 @@ export class Customer {
   phone!: string;
   address?: string;
   registeredAt?: Date;
-  apart?: string[];
+  apartments?: string[];
 }
