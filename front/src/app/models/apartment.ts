@@ -1,5 +1,10 @@
 export class Apartment {
-   address="1";
-    city!: string;
-    numberOfRooms!: number;
+  city!: string;
+  size!: string;
+  neighborhood?: string;
+  price!: string;
+  rooms!: string;
+  rent!: boolean;
+  date?: Date;
+  idCustomer!: string;
 }
