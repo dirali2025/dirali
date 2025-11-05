@@ -1,7 +1,7 @@
 export class Apartment {
 
 
-    address!: string;
+    address="78";
     city!: string;
     numberOfRooms!: number;
 }
