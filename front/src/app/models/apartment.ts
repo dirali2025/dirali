@@ -1,4 +1,7 @@
 export class Apartment {
 
-  city!: string;
+
+    address!: string;
+    city!: string;
+    numberOfRooms!: number;
 }
