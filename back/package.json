@@ -1,0 +1,18 @@
+{
+  "name": "dirali",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+  "clean": "rimraf dist build node_modules package-lock.json",
+  "start": "node app.js"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  }
+}
