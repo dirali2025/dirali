@@ -1,7 +1,7 @@
 import { Apartment } from './apartment';
 
 export class Customer {
-  fName!: string;
+  firstName!: string;
   lastName!: string;
   email!: string;
   phone!: string;
