@@ -1,5 +1,5 @@
 export class Apartment {
-  main!: string;
+  city=3;
   size!: string;
   neighborhood?: string;
   price!: string;
